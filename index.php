@@ -7,7 +7,7 @@
 		<title>DANK MEME</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
         
-        
+        //Add DONATE button, header & other links etc, boards and DANKMEMEPICS
     </head>
        
 		<header>
