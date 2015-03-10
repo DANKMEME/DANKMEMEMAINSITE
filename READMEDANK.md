@@ -1,0 +1,2 @@
+# index.php
+MAKE THIS DANKEST SITE EVER
