@@ -6,6 +6,7 @@
 	<head>
 		<title>DANK MEME</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="manifest" href="/manifest.json">
         
         //Add DONATE button, header & other links etc, boards and DANKMEMEPICS
     </head>
