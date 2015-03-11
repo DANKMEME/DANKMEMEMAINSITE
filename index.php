@@ -6,7 +6,9 @@
 	<head>
 		<title>DANK MEME</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		!-- Hier staat code voor .icon, gelijk voor alle platforms DANK! --!
+		
+		<!-- Hier staat code voor .icon, gelijk voor alle platforms DANK! -->
+		
 		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
