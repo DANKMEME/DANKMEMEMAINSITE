@@ -3,3 +3,4 @@ Todo List for dankest site ever:
   - Inlog Systeem
   - Moar Dank
   - CSS indeling
+  - Donate button cuz we need DANK funds
