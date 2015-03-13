@@ -28,7 +28,7 @@
 		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 		<meta name="theme-color" content="#ffffff">
         
-        	!--Add DONATE button, header & other links etc, boards and DANKMEMEPICS --!
+        	!--Add DONATE button, header & other links etc, boards and DANKMEMEPICS, DERP --!
     </head>
        
 		<header>
