@@ -5,3 +5,4 @@ Todo List for dankest site ever:
   - CSS indeling
   - Donate button cuz we need DANK funds tho
   - MOAR DANK
+  - Moar commits
