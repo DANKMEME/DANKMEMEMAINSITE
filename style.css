@@ -1,0 +1,61 @@
+	body
+	{
+		border:1px solid black;
+		margin:0 auto;
+		width:900px;
+		font-family:Verdana;
+	}
+
+	header, footer							
+	{									
+		border:1px solid blue;			
+		padding:20px 20px;
+		margin:0px;
+		font-size:24px;
+		text-align:center;
+		background-color:RGBA(240,255,235,255);
+		
+	}
+
+	aside							
+	{									
+		border:1px solid blue;			
+		padding:0px 20px;				
+		margin:20px 20px;
+		float:left;
+		width: 160px;
+	}
+
+	section							
+	{									
+		border:1px solid blue;			
+		padding:20px 20px;				
+		margin:20px 20px 20px 0px;
+		float: right;
+		width: 590px;
+		min-height: 400px;
+	}
+
+	footer							
+	{									
+		border:1px solid blue;			
+		padding:20px 20px;				
+		margin-top:20px;
+		clear: both;
+	}
+
+	aside ul
+	{
+		list-style-type:none;
+		border:1px solid black;
+		padding:0px;
+		width: 170px;
+		
+	}
+
+	aside ul li
+	{
+		border:1px solid red;
+		/*width:100px;*/
+	}
+				
